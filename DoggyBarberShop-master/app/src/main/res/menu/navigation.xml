@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_day"
+        android:icon="@drawable/ic_dia"
+        android:title="@string/Dia"/>
+
+    <item
+        android:id="@+id/navigation_week"
+        android:icon="@drawable/ic_semana"
+        android:title="@string/Semana"/>
+
+    <item
+        android:id="@+id/navigation_month"
+        android:icon="@drawable/ic_mes"
+        android:title="@string/Mes"/>
+</menu>

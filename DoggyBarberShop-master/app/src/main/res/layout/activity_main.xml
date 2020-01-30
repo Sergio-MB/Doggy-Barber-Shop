@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_centerHorizontal="true"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="match_parent"
+        android:layout_height="208dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        app:srcCompat="@drawable/dog_wall" />
+
+    <TextView
+        android:id="@+id/TextUser"
+        android:layout_width="67dp"
+        android:layout_height="23dp"
+        android:layout_marginStart="90dp"
+        android:layout_marginTop="40dp"
+        android:text="@string/TextCorreo" />
+
+    <EditText
+        android:id="@+id/InputCorreo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="90dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/shape"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:layout_alignParentBottom="true"
+        android:paddingLeft="3dp" />
+
+    <TextView
+        android:id="@+id/TextPass"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="90dp"
+        android:layout_marginTop="20dp"
+        android:text="@string/TextPass" />
+
+    <EditText
+        android:id="@+id/InputPass"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="90dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/shape"
+        android:ems="10"
+        android:layout_alignParentBottom="true"
+        android:inputType="textPassword"
+        android:paddingLeft="3dp" />
+
+    <TextView
+        android:id="@+id/InputTxtReg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="90dp"
+        android:layout_marginTop="10dp"
+        android:clickable="true"
+        android:text="@string/TextReg"
+        android:textColor="#0000FF" />
+
+    <Button
+        android:layout_centerHorizontal="true"
+        android:id="@+id/ButtonLogIn"
+        android:layout_width="135dp"
+        android:layout_height="29dp"
+        android:layout_marginStart="120dp"
+        android:layout_marginTop="30dp"
+        android:layout_alignParentBottom="true"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/boton_redondo"
+        android:text="@string/ButtonLogIn" />
+
+    <!--    <Button-->
+    <!--        android:id="@+id/ButtonReg"-->
+    <!--        android:layout_width="wrap_content"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:layout_marginStart="76dp"-->
+    <!--        android:layout_marginTop="28dp"-->
+    <!--        android:onClick="onClick"-->
+    <!--        android:text="@string/ButtonReg"-->
+    <!--        app:layout_constraintStart_toStartOf="parent"-->
+    <!--        app:layout_constraintTop_toBottomOf="@+id/ButtonLogIn" />-->
+
+</LinearLayout>

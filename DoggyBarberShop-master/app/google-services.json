@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "494854281974",
+    "firebase_url": "https://doggy-barber-shop.firebaseio.com",
+    "project_id": "doggy-barber-shop",
+    "storage_bucket": "doggy-barber-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494854281974:android:3747d9f1309c1a8bb3aad7",
+        "android_client_info": {
+          "package_name": "com.example.doggybarbershop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494854281974-9ommeoqhn41824s9j8orncqsisaroch5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doggybarbershop",
+            "certificate_hash": "3a16ecfb7c58b885ef67982a30e328faf72bbb5a"
+          }
+        },
+        {
+          "client_id": "494854281974-56jhf2guu2sqsic1ga2gthvp5g6uffl9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doggybarbershop",
+            "certificate_hash": "455cf7a432301ec2f8c3c31a34e88f799e1de83b"
+          }
+        },
+        {
+          "client_id": "494854281974-f0ne77kvvm2tdf3jt4k57g48s3gtd28d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdeEEW_STbxaROjaXfLTXDb3uNBSKlTXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494854281974-f0ne77kvvm2tdf3jt4k57g48s3gtd28d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

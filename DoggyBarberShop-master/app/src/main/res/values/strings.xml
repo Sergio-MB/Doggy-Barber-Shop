@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Doggy Barber Shop</string>
+    <string name="TextCorreo">Correo</string>
+    <string name="TextName">Nombre</string>
+    <string name="TxtTlfn">Teléfono</string>
+    <string name="TextPass">Contraseña</string>
+    <string name="TextPass2">Repita Contraseña</string>
+    <string name="ButtonLogIn">Iniciar Sesión</string>
+    <string name="ButtonReg">Registrar Usuario</string>
+    <string name="TextReg">Registrar</string>
+    <string name="Dia">Hoy</string>
+    <string name="Semana">Semana</string>
+    <string name="Mes">Mes</string>
+    <string name="Addcita">Pedir cita</string>
+    <string name="Next">Siguiente</string>
+    <string name="TxtServicio">Servicio</string>
+    <string name="TxtRaza">Raza de perro</string>
+    <string name="TxtOtros">Otros datos</string>
+    <string name="Confirma">Confirmar Cita</string>
+    <string name="Elimina">Eliminar Cita</string>
+    <string name="vacio"></string>
+    <string name="title_click">Title click</string>
+    <string name="menu_1">Inicio</string>
+    <string name="menu_2">Reservar cita</string>
+    <string name="menu_3">Historial</string>
+    <string name="menu_4">Cerrar sesion</string>
+    <string name="menu_5">Salir</string>
+    <string name="menuAdmin_1">Añadir Peluqueria</string>
+    <string name="nombrePelu">Nombre de la peluqueria</string>
+    <string name="lugarPelu">Lugar de la peluqueria</string>
+    <string name="ButtonRegPelu">Guardar peluqueria</string>
+
+</resources>
